@@ -1,0 +1,19 @@
+/******************/
+
+COMMON
+
+/******************/
+
+body{
+    font-famliy: "inter", sans-serif;
+    font-weight:600;
+    color: black;
+}
+
+.font-primary{
+    color:#722F37;
+}
+.title-icon{
+    font-size: 20px;
+    font-weight:bold;
+}
