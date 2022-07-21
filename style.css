@@ -1,8 +1,4 @@
-/******************/
-
-COMMON
-
-/******************/
+/* COMMON */
 
 body{
     font-famliy: "inter", sans-serif;
@@ -16,4 +12,54 @@ body{
 .title-icon{
     font-size: 20px;
     font-weight:bold;
+}
+
+/* ABOUT */
+
+#about{
+    text-align: center;
+    max-width: 400px;
+    margin: 60px auto;
+}
+
+#about img{
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+#about .vocation{
+    font-size: 17px;
+    color: #777777;
+    margin-bottom: 10px;
+    font-weight: 350;
+}
+
+#about .skills{
+    font-size: 14px;
+    color: #722F37;
+    margin-bottom: 10px;
+    font-weight: 350;
+}
+
+#about .email{
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: 350;
+}
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 8px;
+}
+
+#about .icons a{
+    color: black;
+    padding-right: 10px;
 }
