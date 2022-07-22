@@ -75,6 +75,10 @@ a.font-black{
     color: black;
 }
 
+#about p{
+    font-weight: 375;
+}
+
 /* PROJECTS */
 
 #Project {
